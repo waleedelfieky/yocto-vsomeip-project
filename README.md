@@ -23,13 +23,11 @@ this project is about making customized image using yocto project this image int
 </div>
 
 
-
-
 ## A collection of markdown notes on Yocto project this project Integrated the VSOMEIP middleware.
 
-yocto project: The Yocto Project is an open-source collaboration project enabling developers to create custom Linux-based operating systems for embedded devices and the Internet of Things (IoT). It provides tools, metadata, and recipes to build tailored Linux distributions. Key components include Poky, OpenEmbedded-Core, BitBake, metadata, recipes, layers, and toolchains. Its primary aims are flexibility, customization, and reproducibility in building optimized and secure Linux distributions for various embedded applications.
+yocto project: itenables developers to create custom Linux-based systems for embedded devices. It offers tools for building Linux distributions.
 
-vsomeip: vSomeIP (Virtual Service-Oriented IP) is an implementation of the SOME/IP (Service-Oriented Middleware over IP) protocol, designed for use in automotive and other embedded systems. It facilitates communication between various software components within a vehicle's network or in distributed embedded systems.
+vsomeip: it is an implementation of the SOME/IP (Service-Oriented Middleware over IP) protocol, designed for use in automotive. It facilitates communication between various software components within a vehicle's network or in distributed embedded systems.
   
 ## Table of Contents:
 
