@@ -3,7 +3,7 @@ this project is about making customized image using yocto project this image int
 <div>
 <img align="left" src="https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/155e7a89-107c-41bb-9af6-8a551a6091b1" alt="STL Notes Logo" width="350">
 
-# *Yocto PROJECT: A Summary Guide to Yocto project this project Integrated the VSOMEIP middleware.*
+# *Yocto PROJECT: A Summary Guide to Yocto project this project Integrated the VSOMEIP middleware layer.*
 
 [![GitHub stars](https://img.shields.io/github/stars/waleedelfieky/yocto-vsomeip-project?style=social)](https://github.com/waleedelfieky/yocto-vsomeip-project/stargazers) 
 [![GitHub forks](https://img.shields.io/github/forks/waleedelfieky/yocto-vsomeip-project?style=social)](https://github.com/waleedelfieky/yocto-vsomeip-project/network/members) 
