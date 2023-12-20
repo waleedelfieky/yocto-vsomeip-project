@@ -1,8 +1,7 @@
 # yocto-vsomeip-project
 this project is about making customized image using yocto project this image integrated vsomeip to use it later on simple IPC communcation test 
 <div>
-<img align="left" src="![image](https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/155e7a89-107c-41bb-9af6-8a551a6091b1)
-" alt="STL Notes Logo" width="350">
+<img align="left" src="https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/155e7a89-107c-41bb-9af6-8a551a6091b1" alt="STL Notes Logo" width="350">
 
 # *Yocto PROJECT: A Summary Guide to Yocto project this project Integrated the VSOMEIP middleware.*
 
@@ -25,9 +24,6 @@ this project is about making customized image using yocto project this image int
 
 
 
-https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/1d6bccfb-a253-4b52-89b3-c00373494701
-
-
 
 ## A collection of markdown notes on Yocto project this project Integrated the VSOMEIP middleware.
 
@@ -42,6 +38,7 @@ vsomeip: vSomeIP (Virtual Service-Oriented IP) is an implementation of the SOME/
 - [vsomeip-dependancies](#vsomeip-dependancies)
 - [vsomeip-recipes](#vsomeip-recipes)
 - [appvsomeip-recipes](#appvsomeip-recipes)
+- [video](#video)
 - [Contact Information](#contact-information)
 
 ## overview-of-system:
@@ -65,6 +62,8 @@ vsomeip: vSomeIP (Virtual Service-Oriented IP) is an implementation of the SOME/
 ## appvsomeip-recipes:
 - appvsomeip recipe: for integrate simple application this application is just for testing it
 
+## video:
+https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/1d6bccfb-a253-4b52-89b3-c00373494701
 
 
 ## Contact Information:
