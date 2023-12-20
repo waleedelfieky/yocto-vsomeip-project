@@ -1,7 +1,7 @@
 # yocto-vsomeip-project
 this project is about making customized image using yocto project this image integrated vsomeip to use it later on simple IPC communcation test 
 <div>
-<img align="left" src="https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/155e7a89-107c-41bb-9af6-8a551a6091b1" alt="STL Notes Logo" width="350">
+<img align="left" src="https://github.com/waleedelfieky/yocto-vsomeip-project/assets/126036494/158df6f5-4402-406b-bfde-e41f1efe758c" alt="STL Notes Logo" width="350">
 
 # *Yocto PROJECT: A Summary Guide to Yocto project this project Integrated the VSOMEIP middleware layer.*
 
