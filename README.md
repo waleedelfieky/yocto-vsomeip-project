@@ -18,7 +18,7 @@ this project is about making customized image using yocto project this image int
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/waleedelfieky/yocto-vsomeip-project)](https://github.com/waleedelfieky/yocto-vsomeip-project/commits/main) 
 [![Last commit](https://img.shields.io/github/last-commit/waleedelfieky/yocto-vsomeip-project)](https://github.com/waleedelfieky/yocto-vsomeip-project/commits/main) 
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/waleedelfieky/yocto-vsomeip-project)](https://github.com/Ali-Elbana/yocto-vsomeip-project/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/waleedelfieky/yocto-vsomeip-project)](https://github.com/waleedelfieky/yocto-vsomeip-project/pulls)
 ![GitHub merged PRs](https://img.shields.io/github/issues-pr-closed/waleedelfieky/yocto-vsomeip-project?style=flat-square)
 </div>
 
